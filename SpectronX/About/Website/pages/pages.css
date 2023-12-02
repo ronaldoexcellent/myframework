@@ -1,0 +1,14 @@
+slideshow img {
+        width:100%;
+        height:500px;
+} sSlideshow img {
+        width:100%;
+        height: 100%;
+} div div div a {
+        text-decoration: none;
+} div div div a:hover {
+        color: blue;
+} footer div a {
+        word-spacing: 20%;
+        font-size: xx-large;
+}
