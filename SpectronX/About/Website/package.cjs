@@ -48,7 +48,7 @@ const components = {
     ],
 
     sSlideshow: `
-        <img src="../files/images/code1.png">
+        <img src="../files/images/code1.PNG">
         <img src="../files/images/code2.png">
         <img src="../files/images/code3.png">
         <img src="../files/images/code4.png">
