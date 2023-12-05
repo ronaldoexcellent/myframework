@@ -120,7 +120,7 @@ const components = {
 
     footer : `
         <attrib class="s-container s-content s-black s-large s-center s-padding" style="line-height:2em"></attrib>
-        Contact Me:<br>
+        Contact Me:<br><br>
         <div style="line-height: 2em; display: flex; justify-content: space-evenly">
             <a href="tel:+2349114349748" class="fa fa-phone"></a>
             <a href="sms:+2349114349748" class="fa fa-envelope"></a>
@@ -131,7 +131,7 @@ const components = {
             <a href="https://www.linkedin.com/in/ronaldinhoexcellent1212" class="fab fa-linkedin"></a>
             <a href="https://www.github.com/ronaldoexcellent" class="fab fa-github"></a>
             <a href="mailto:ronaldinhoexcellent@gmail.com" class="fab fa-google"></a>
-        </div>
+        </div><br>
         Copyright &copy; ${app.copyright}.<br>All Rights Reserved.
     `
 };
