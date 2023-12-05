@@ -1,0 +1,24 @@
+nav {
+    width: 290px;
+    height: 0;
+    z-index: 5;
+    background: white;
+    transition: 1s;
+    position: fixed;
+    overflow: hidden;
+    left: 50%;
+    bottom: 3%;
+    transform: translateX(-50%);
+} nav .code-row {
+    transition: .8s;
+} nav .code-row:hover {
+    color: blue;
+    transform: translateX(10%);
+}
+
+@media (max-width:600px) {
+    nav {
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
