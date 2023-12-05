@@ -36,8 +36,8 @@ const components = {
 
     slideshowMob : `
         <attrib class="s-hide-large s-hide-medium"></attrib>
-        <img src="../../Images/spectronx1.jpg" style="width:100%;">
-        <img src="../../Images/spectronx2.jpg" style="width:100%;">
+        <img src="../files/images/spectronx1.jpg" style="width:100%;">
+        <img src="../files/images/spectronx2.jpg" style="width:100%;">
     `,
 
     slideshow : [
@@ -48,10 +48,10 @@ const components = {
     ],
 
     sSlideshow: `
-        <img src="../../Images/code1.png">
-        <img src="../../Images/code2.png">
-        <img src="../../Images/code3.png">
-        <img src="../../Images/code4.png">
+        <img src="../files/images/code1.png">
+        <img src="../files/images/code2.png">
+        <img src="../files/images/code3.png">
+        <img src="../files/images/code4.png">
     `,
 
     sHandle : [
