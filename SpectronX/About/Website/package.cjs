@@ -119,7 +119,7 @@ const components = {
     `,
 
     footer : `
-        <attrib class="s-container s-content s-black s-large s-center s-padding"></attrib>
+        <attrib class="s-container s-content s-black s-large s-center s-padding" style="line-height:2em"></attrib>
         Contact Me:<br>
         <div style="line-height: 2em; display: flex; justify-content: space-evenly">
             <a href="tel:+2349114349748" class="fa fa-phone"></a>
