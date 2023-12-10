@@ -32,9 +32,9 @@ function b(e) {
             case "=":
                 if (html($('.screen')).length > 8) {
                     html($('.screen'), eval(html($('.screen'))).toExponential(2));
-                } /*else {
+                } else {
                     html($('.screen'), eval(html($('.screen'))));
-                }*/
+                }
                 
         }
     })
