@@ -117,4 +117,4 @@ css($('footer'), "width: 100%;");
 // Render footer to main
 render($('main'), $('footer'));
 // Load the app
-//loadApp();
+loadApp();
