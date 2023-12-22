@@ -1,0 +1,22 @@
+.s-theme-l5 {color:#000 !important; background-color:#fefef8 !important}
+.s-theme-l4 {color:#000 !important; background-color:#fcfae8 !important}
+.s-theme-l3 {color:#000 !important; background-color:#f9f5d2 !important}
+.s-theme-l2 {color:#000 !important; background-color:#f6f0bb !important}
+.s-theme-l1 {color:#000 !important; background-color:#f3eba5 !important}
+.s-theme-d1 {color:#000 !important; background-color:#ecdf6c !important}
+.s-theme-d2 {color:#000 !important; background-color:#e8d84a !important}
+.s-theme-d3 {color:#000 !important; background-color:#e3d029 !important}
+.s-theme-d4 {color:#000 !important; background-color:#cbb91a !important}
+.s-theme-d5 {color:#fff !important; background-color:#a99b16 !important}
+
+.s-theme-light {color:#000 !important; background-color:#fefef8 !important}
+.s-theme-dark {color:#fff !important; background-color:#a99b16 !important}
+.s-theme-action {color:#fff !important; background-color:#a99b16 !important}
+
+.s-theme {color:#000 !important; background-color:#f0e68c !important}
+.s-text-theme {color:#f0e68c !important}
+.s-border-theme {border-color:#f0e68c !important}
+
+.s-hover-theme:hover {color:#000 !important; background-color:#f0e68c !important}
+.s-hover-text-theme:hover {color:#f0e68c !important}
+.s-hover-border-theme:hover {border-color:#f0e68c !important}
